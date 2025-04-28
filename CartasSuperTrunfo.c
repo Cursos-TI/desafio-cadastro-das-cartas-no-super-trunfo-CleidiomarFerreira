@@ -57,9 +57,7 @@ int main() {
     printf("Área: %.2f km²\n", area1);
     printf("PIB: %.2f bilhões de reais  \n", pib1);
     printf("Número de Pontos Turísticos: %f\n", pontosTuristicos1);
-}
-    int main()
-{
+
     // Declaração das variáveis para a Carta 2
     char estado2[20];
     char codigo2[4];
