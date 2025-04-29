@@ -24,6 +24,8 @@ int main() {
     float area1;
     float pib1;
     int pontosTuristicos1;
+
+    
     // Entrada de dados para a Carta 1
     printf("Cadastro da Carta 1:\n");
 
